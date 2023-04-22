@@ -1,2 +1,3 @@
 # Hongodori TaskMgr
 ![image](https://user-images.githubusercontent.com/91722200/232758506-57522529-455a-456e-b3d1-788e944c1338.png)
+![image](https://user-images.githubusercontent.com/91722200/233770142-f7ec1075-14e9-42a4-af32-e4e85826da2e.png)
